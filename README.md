@@ -115,13 +115,22 @@ projet-prediction-images/
 
 ## Exemple de Fonctionnement
 
+### 1. Page d'accueil
+![Page d'accueil](![Interface d'accueil](https://github.com/user-attachments/assets/b2683fb5-b7b2-4c99-a790-a332247b9a3a))
+
+### 2. Image téléchargée
+![Image téléchargée](![Importation d'image](https://github.com/user-attachments/assets/2ebfa4fc-f415-4e9f-b7db-63a4a474c3d3))
+
+### 3. Résultat de la prédiction
+![Résultat prédiction](![Make predictions](https://github.com/user-attachments/assets/770f703e-71f7-4695-9066-2d08e59c715f))
+
 - **Image Téléchargée** : Photo de feuille de tomate malade.
 - **Prédiction** : `Tomato_Leaf_Mold`
 
 ---
 
 ## Auteurs
-- **Votre Nom** : Développement et conception
+- **Ayoub Dammak** : Développement et conception
 
 ---
 
